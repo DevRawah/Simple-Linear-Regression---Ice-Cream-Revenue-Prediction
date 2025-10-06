@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 st.title("📊 Ice Cream Revenue Predictor by Rawah")
 
 # 🔑 API Key
-api_key = "your_api_key_here"
+api_key = "1fb8eecc79f3661e3c0abc81a24d33db"
 
 # 📥 Upload CSV
 uploaded_file = st.file_uploader("Upload IceCreamData.csv", type="csv")
